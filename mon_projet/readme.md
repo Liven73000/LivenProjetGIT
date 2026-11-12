@@ -3,5 +3,4 @@
 
 # Je travaille sur la branche master.
 
-# Je travaille sur la branche develop.
 
